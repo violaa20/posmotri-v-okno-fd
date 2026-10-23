@@ -181,7 +181,7 @@ ol {
   background-color: transparent;
 }
 
-.search-form__checkbox{
+.search-form__checkbox {
   appearance: none;
 }
 
@@ -295,7 +295,7 @@ ol {
   text-decoration: underline;
 }
 
-.content__card-link:active  {
+.content__card-link:active {
   background-color: #545050;
 }
 
